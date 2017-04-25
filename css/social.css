@@ -1,0 +1,11 @@
+footer.main-footer ul.social-media li > a {
+  display: block;
+  background: none; }
+  footer.main-footer ul.social-media li > a i {
+    transition: color 0.2s;
+    font-size: 28px;
+    color: white; }
+  footer.main-footer ul.social-media li > a:hover {
+    background: none; }
+    footer.main-footer ul.social-media li > a:hover i {
+      color: #da4939; }

@@ -1,0 +1,15 @@
+footer.main-footer ul.social-media li>a {
+  display:block;
+  background: none;
+  i {
+    transition: color 0.2s;
+    font-size: 28px;
+    color:white;
+  }
+  &:hover {
+    background:none;
+    i {
+      color:#da4939;
+    }
+  }
+}
